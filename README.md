@@ -1,1 +1,0 @@
-# Mulah-Frontend-Quiz
